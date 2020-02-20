@@ -11,6 +11,7 @@ public class Calculadora{
         num1 = input.nextInt();
         System.out.println("Digite numero 2: ");
         num2 = input.nextInt();
-        System.out.println(num1 + num2);
+        System.out.println("Seu resultado de soma " + (num1 + num2));       
+
     }    
 }            
